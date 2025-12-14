@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Generative AI Specialist | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BaseerAhmedTahir&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="[https://visitcount.itsvg.in/api?id=BaseerAhmedTahir&label=Profile%20Views&color=0&icon=5&pretty=true](https://pbs.twimg.com/profile_images/1988529947573374976/nzIDXORy_400x400.jpg)" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Currently focused on **Agentic AI**, **RAG Systems**, and **On-Device AI**.
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/Baseer-Ahmed-Tahir" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
