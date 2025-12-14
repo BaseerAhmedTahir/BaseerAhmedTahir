@@ -1,80 +1,47 @@
-<h1 align="center">Hi 👋, I'm Baseer Ahmed</h1>
-<h3 align="center">AI Engineer | Generative AI Specialist | Full-Stack Developer</h3>
+<h1 align="center">Baseer Ahmed</h1>
+<h3 align="center">AI Engineer | LLM Orchestration | Full-Stack Systems</h3>
 
 <p align="center">
-  <img src="[https://visitcount.itsvg.in/api?id=BaseerAhmedTahir&label=Profile%20Views&color=0&icon=5&pretty=true](https://pbs.twimg.com/profile_images/1988529947573374976/nzIDXORy_400x400.jpg)" />
+  <em>Bridging the gap between Generative AI research and production-grade software.</em>
 </p>
 
 ---
 
-### 🧠 About Me
-I build intelligent systems that bridge the gap between **LLMs and production**.  
-Currently focused on **Agentic AI**, **RAG Systems**, and **On-Device AI**.
+### 👨‍💻 Engineering Profile
+I specialize in building **Agentic Workflows**, **RAG Architectures**, and **Privacy-First On-Device AI**. My focus is moving beyond simple wrappers to create robust, scalable intelligent systems.
 
-- 🔭 Building: **A Multi-Agent Software House**
-- 💼 AI Engineer at **Eventus Sol** (Ex-Affinity Devs)
-- 🛠 Tech Stack: Python, FastAPI, LangChain, React, Docker, Gemini
-- ⚡ Fun fact: Built a **Chrome extension running LLMs fully offline**
-
----
-
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|------|------------|------|
-| **TextGenius** | Privacy-first offline Chrome extension using Gemini Nano | JS, Chrome API, AI |
-| **ResumeAI-Engine** | RAG-based ATS resume analyzer & benchmarking system | Python, FastAPI, Vector DB |
-| **Idea2App** | Text-to-React code generator with live preview | React, Node.js, LLMs |
+- 🔭 **Current Focus:** Architecting a **Multi-Agent Software Ecosystem** capable of autonomous development.
+- 💼 **Professional Role:** AI Engineer at **Eventus Sol** (Ex-Affinity Devs).
+- ⚙️ **Core Stack:** Python (FastAPI), LangChain, Docker, React, & Local LLMs (Gemini Nano/Llama).
+- ⚡ **Technical Achievement:** Successfully deployed an **offline-first LLM Chrome Extension** using browser-native inference.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 High-Impact Projects
+
+| Project | Domain | Architecture |
+|:---|:---|:---|
+| **TextGenius** | On-Device AI | **Gemini Nano** integrated via Chrome Extensions API for 100% offline privacy. |
+| **ResumeAI-Engine** | HR Tech | **RAG Pipeline** utilizing Vector DBs to benchmark resumes against job descriptions. |
+| **Idea2App** | Generative UI | **LLM-driven Code Generation** pipeline rendering React components in real-time. |
+
+---
+
+### 🛠 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,langchain,gcp,postgres,react,ts,git,linux&perline=10" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaseerAhmedTahir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaseerAhmedTahir&show_icons=true&theme=midnight-owl&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmedTahir&layout=compact&theme=midnight-owl&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaseerAhmedTahir&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmedTahir&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaseerAhmedTahir&theme=darkhub&no-frame=true&row=1" />
-</p>
-
----
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaseerAhmedTahir&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/Baseer-Ahmed-Tahir" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/Baseer-Ahmed-Tahir">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ *Building the future of AI-powered software* ⚡
 </p>
