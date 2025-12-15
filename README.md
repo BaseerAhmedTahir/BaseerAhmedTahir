@@ -1,47 +1,45 @@
-<h1 align="center">Baseer Ahmed</h1>
-<h3 align="center">AI Engineer | LLM Orchestration | Full-Stack Systems</h3>
+<div align="center">
+  <h1 align="center">Baseer Ahmed Tahir</h1>
+  <h3>AI Engineer | LLM Orchestration | Full-Stack Systems</h3>
+  <p><em>Turning Generative AI research into robust, production-grade software.</em></p>
 
-<p align="center">
-  <em>Bridging the gap between Generative AI research and production-grade software.</em>
-</p>
-
----
-
-### 👨‍💻 Engineering Profile
-I specialize in building **Agentic Workflows**, **RAG Architectures**, and **Privacy-First On-Device AI**. My focus is moving beyond simple wrappers to create robust, scalable intelligent systems.
-
-- 🔭 **Current Focus:** Architecting a **Multi-Agent Software Ecosystem** capable of autonomous development.
-- 💼 **Professional Role:** AI Engineer at **Eventus Sol** (Ex-Affinity Devs).
-- ⚙️ **Core Stack:** Python (FastAPI), LangChain, Docker, React, & Local LLMs (Gemini Nano/Llama).
-- ⚡ **Technical Achievement:** Successfully deployed an **offline-first LLM Chrome Extension** using browser-native inference.
-
----
-
-### 🚀 High-Impact Projects
-
-| Project | Domain | Architecture |
-|:---|:---|:---|
-| **TextGenius** | On-Device AI | **Gemini Nano** integrated via Chrome Extensions API for 100% offline privacy. |
-| **ResumeAI-Engine** | HR Tech | **RAG Pipeline** utilizing Vector DBs to benchmark resumes against job descriptions. |
-| **Idea2App** | Generative UI | **LLM-driven Code Generation** pipeline rendering React components in real-time. |
-
----
-
-### 🛠 Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,langchain,gcp,postgres,react,ts,git,linux&perline=10" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaseerAhmedTahir&show_icons=true&theme=midnight-owl&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmedTahir&layout=compact&theme=midnight-owl&hide_border=true" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/Baseer-Ahmed-Tahir">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br />
+
+### 👨‍💻 About Me
+I am an AI Engineer at **Eventus Sol** building autonomous multi-agent ecosystems. My engineering philosophy moves beyond simple API wrappers to architect **privacy-first, on-device AI** and scalable **RAG systems**. 
+
+- 🔭 **Current Focus:** Building a **Multi-Agent Software Ecosystem** capable of autonomous coding.
+- 💡 **Innovation:** Pioneered browser-native inference for **offline-first LLM** execution.
+
+---
+
+### 🛠 Tech Stack & Arsenal
+
+| Domain | Technologies |
+|:---:|:---|
+| **AI & LLM** | LangChain, LlamaIndex, Gemini Nano, Local LLMs, RAG |
+| **Backend** | Python, FastAPI, Postgres, Vector DBs |
+| **Frontend** | React, TypeScript, Next.js |
+| **DevOps** | Docker, GCP, Linux, CI/CD |
+
+---
+
+### 🚀 Selected Projects
+
+| Project | The Architecture |
+|:---|:---|
+| **TextGenius** <br> *(On-Device AI)* | **100% Offline Privacy:** Leverages Chrome Extensions API to run **Gemini Nano** directly in the browser without server dependency. |
+| **ResumeAI-Engine** <br> *(HR Tech)* | **High-Precision RAG:** A benchmarking pipeline utilizing Vector DBs to mathematically score resumes against job descriptions. |
+| **Idea2App** <br> *(Gen-UI)* | **Real-Time Rendering:** An LLM-driven pipeline that generates and renders React components on the fly based on user prompts. |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaseerAhmedTahir&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=999&icon_color=0077B5" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmedTahir&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=999" height="150" alt="languages graph" />
+</div>
