@@ -11,7 +11,7 @@
 <br />
 
 ### 🧠 Engineering Philosophy
-I specialize in closing the gap between **AI research** and **scalable software**. Currently at **Eventus Sol**, I build autonomous multi-agent systems designed to solve complex, non-linear problems. I prioritize **on-device inference** to eliminate latency and ensure data sovereignty.
+I specialize in closing the gap between **AI research** and **scalable software**. I build autonomous multi-agent systems designed to solve complex, non-linear problems. I prioritize **on-device inference** to eliminate latency and ensure data sovereignty.
 
 - 🛠️ **Building:** A multi-agent framework for autonomous, end-to-end software development.
 - ⚡ **Optimization:** Expert in browser-native execution (WebGPU/Gemini Nano) for offline AI.
