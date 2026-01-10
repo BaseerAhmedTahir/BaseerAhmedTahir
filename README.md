@@ -43,5 +43,5 @@ I specialize in closing the gap between **AI research** and **scalable software*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaseerAhmedTahir&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=999&icon_color=0077B5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmedTahir&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=999" height="150" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmedTahir&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=999" height="150" alt="languages graph" /> -->
 </div>
