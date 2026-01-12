@@ -73,79 +73,28 @@ Most recently at **Eventus Sol**, I engineered recruitment platforms and on-devi
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=baseerahmedtahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=baseerahmedtahir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baseerahmedtahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baseerahmedtahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=baseerahmedtahir&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baseerahmedtahir&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=999&icon_color=0077B5" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseerahmedtahir&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=999" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=baseerahmedtahir&icon=5&color=2" alt="Visitor Count" />
-  </a>
-</div>
-
-
-
-
-
+## 📊 GitHub Analytics
 
 <!-- <div align="center">
-  <h1>Baseer Ahmed Tahir</h1>
-  <p><strong>AI Engineer • LLM Orchestration • Full-Stack Systems</strong></p>
-  <p><em>Architecting production-grade agentic workflows and privacy-centric AI ecosystems.</em></p>
-
-  <a href="https://www.linkedin.com/in/Baseer-Ahmed-Tahir">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=baseerahmedtahir&theme=radical&no-frame=false&margin-w=4&row=1" alt="trophies" />
   </a>
 </div>
 
-<br />
-
-### 🧠 Engineering Philosophy
-I specialize in closing the gap between **AI research** and **scalable software**. I build autonomous multi-agent systems designed to solve complex, non-linear problems. I prioritize **on-device inference** to eliminate latency and ensure data sovereignty.
-
-- 🛠️ **Building:** A multi-agent framework for autonomous, end-to-end software development.
-- ⚡ **Optimization:** Expert in browser-native execution (WebGPU/Gemini Nano) for offline AI.
-- 🏗️ **Systems:** Designing high-throughput RAG pipelines and vector-search architectures.
-
----
-
-### 🛠 Technical Arsenal
-
-| Category | Stack |
-|:---:|:---|
-| **AI Orchestration** | LangChain, LlamaIndex, Multi-Agent Frameworks, RAG |
-| **Model Deployment** | Gemini Nano, Local LLMs (Ollama), Quantization, WebGPU |
-| **Back-End & Data** | Python (FastAPI), PostgreSQL, Pinecone, ChromaDB |
-| **Front-End & Tools** | TypeScript, React, Next.js, Tailwind CSS |
-| **Infrastructure** | Docker, GCP, CI/CD Pipelines, Linux Systems |
-
----
-
-### 🚀 Featured Deployments
-
-| Project | Innovation |
-|:---|:---|
-| **TextGenius** | **Privacy-First Intelligence:** Eliminated server costs/latency by orchestrating **Gemini Nano** via Chrome Extensions for 100% offline LLM utility. |
-| **ResumeAI-Engine** | **Precision Matching:** Engineered a benchmarking pipeline using mathematical similarity scoring and Vector DBs to automate high-volume HR screening. |
-| **Idea2App** | **Generative UI:** Developed a real-time streaming pipeline that converts natural language into live-rendered React components. |
-
----
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaseerAhmedTahir&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=999&icon_color=0077B5" height="150" alt="stats graph" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmedTahir&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=999" height="150" alt="languages graph" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=baseerahmedtahir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseerahmedtahir&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
 </div> -->
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=baseerahmedtahir&theme=dark&hide_border=true" alt="streak stats" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=baseerahmedtahir&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
