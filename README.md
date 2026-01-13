@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Baseer Ahmed Tahir</h1>
-  <h3>AI Engineer | CS Master | Full-Stack Architect</h3>
+  <h3>AI Engineer | Computer Scientist | Full-Stack Architect</h3>
   <p>
     <em>Specializing in Agentic Workflows, RAG Pipelines, and Privacy-First AI Systems.</em>
   </p>
