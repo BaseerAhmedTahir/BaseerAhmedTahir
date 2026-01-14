@@ -9,8 +9,11 @@
     <a href="https://www.linkedin.com/in/baseer-ahmed-tahir/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://www.linkedin.com/in/baseer-ahmed-tahir/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
     <a href="mailto:baseerahmedtahir@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </div>
 </div>
@@ -19,7 +22,7 @@
 
 ## 🧠 Engineering Philosophy
 
-As a Computer Science Master and AI Engineer, I bridge the gap between **theoretical AI research** and **production-grade software**. My focus is on architecting intelligent systems that are not just powerful, but scalable and privacy-compliant.
+As a Computer Scientist and AI Engineer, I bridge the gap between **theoretical AI research** and **production-grade software**. My focus is on architecting intelligent systems that are not just powerful, but scalable and privacy-compliant.
 
 Most recently at **Eventus Sol**, I engineered recruitment platforms and on-device AI solutions. I am currently seeking challenges in **Agentic AI** and **High-Performance Web Systems**.
 
