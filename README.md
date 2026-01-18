@@ -6,7 +6,7 @@
   </p>
 📫 How to reach me     <a href="mailto:baseerahmedtahir@gmail.com">baseerahmedtahir@gmail.com</a>
 <br />
-  <br />
+ <h3> Connect with me:</h3>
   <div>
     <a href="https://www.linkedin.com/in/baseer-ahmed-tahir/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
