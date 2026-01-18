@@ -4,16 +4,15 @@
   <p>
     <em>Specializing in Agentic Workflows, RAG Pipelines, and Privacy-First AI Systems.</em>
   </p>
-
+📫 How to reach me     <a href="mailto:baseerahmedtahir@gmail.com">baseerahmedtahir@gmail.com</a>
+<br />
+  <br />
   <div>
     <a href="https://www.linkedin.com/in/baseer-ahmed-tahir/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/baseerahmedtahir/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:baseerahmedtahir@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </div>
 </div>
