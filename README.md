@@ -92,9 +92,9 @@ Most recently at **Eventus Sol**, I engineered recruitment platforms and on-devi
 </div> -->
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app/?user=baseerahmedtahir&theme=dark&hide_border=true" alt="streak stats" />
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
