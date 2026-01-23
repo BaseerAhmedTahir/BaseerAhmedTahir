@@ -4,6 +4,7 @@
   <p>
     <em>Specializing in Agentic Workflows, RAG Pipelines, and Privacy-First AI Systems.</em>
   </p>
+  👨‍💻 All of my projects are available at my <a href="https://baseerahmedtahir.vercel.app/">portfolio</a> <br /> <br />
   📫 How to reach me <a href="mailto:baseerahmedtahir@gmail.com">baseerahmedtahir@gmail.com</a>
   <br />
    <h3> Connect with me:</h3>
