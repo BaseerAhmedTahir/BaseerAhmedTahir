@@ -1,44 +1,53 @@
 <div align="center">
   <h1>Baseer Ahmed Tahir</h1>
-  <h3>AI Engineer | Computer Scientist | Full-Stack Architect</h3>
+  <h3>BSCS Student | AI Engineer in Training | Full-Stack Developer</h3>
   <p>
-    <em>Specializing in Agentic Workflows, RAG Pipelines, and Privacy-First AI Systems.</em>
+    <em>Building scalable, privacy-first AI systems with real-world impact.</em>
   </p>
-  👨‍💻 All of my projects are available at my <a href="https://baseerahmedtahir.vercel.app/">portfolio</a> <br /> <br />
-  📫 How to reach me <a href="mailto:baseerahmedtahir@gmail.com">baseerahmedtahir@gmail.com</a>
-  <br />
-   <h3> Connect with me:</h3>
-  <div>
-    <a href="https://www.linkedin.com/in/baseer-ahmed-tahir/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/baseerahmedtahir/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </div>
+
+  👨‍💻 Portfolio: <a href="https://baseerahmedtahir.vercel.app/">baseerahmedtahir.vercel.app</a><br/>
+  📫 Email: <a href="mailto:baseerahmedtahir@gmail.com">baseerahmedtahir@gmail.com</a>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/baseer-ahmed-tahir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/baseerahmedtahir/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
-
-<br />
-
-## 🧠 Engineering Philosophy
-
-As a Computer Scientist and AI Engineer, I bridge the gap between **theoretical AI research** and **production-grade software**. My focus is on architecting intelligent systems that are not just powerful, but scalable and privacy-compliant.
-
-Most recently at **Eventus Sol**, I engineered recruitment platforms and on-device AI solutions. I am currently seeking challenges in **Agentic AI** and **High-Performance Web Systems**.
-
-* **⚡ Latency & Edge AI:** Expert in running on-device models (Gemini Nano/WebGPU) to eliminate server costs and ensure data sovereignty.
-* **🏗️ Systems Architecture:** Designing high-throughput RAG pipelines using Vector Databases (Pinecone/Chroma) and asynchronous backends.
-* **🤖 Autonomous Agents:** Building multi-agent frameworks capable of solving non-linear, complex workflows.
 
 ---
 
-## 🚀 Featured Deployments
+## 🎓 About Me
 
-| Project | Domain | Technical Innovation |
-|:---|:---|:---|
-| **TextGenius** | **Edge AI / NLP** | **Privacy-First Intelligence:** Eliminated server latency by orchestrating **Gemini Nano** via Chrome Extensions for 100% offline LLM utility. |
-| **ResumeAI-Engine** | **RAG / Analytics** | **High-Dimensional Matching:** Engineered a benchmarking pipeline using cosine similarity and Vector DBs to automate high-volume HR screening with precision. |
-| **Idea2App** | **GenAI / Frontend** | **Generative UI:** Developed a real-time WebSocket pipeline that converts natural language prompts into live-rendered React components instantly. |
+I am a **BSCS student at COMSATS University Islamabad (Lahore Campus)** with a strong focus on **Artificial Intelligence, distributed systems, and full-stack engineering**.
+
+My interests lie in bridging **computer science theory** with **production-grade software**, particularly in areas such as **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **on-device / privacy-preserving AI systems**.
+
+I actively build real-world projects beyond coursework and am seeking opportunities for:
+- **International graduate programs**
+- **Research-driven MS admissions**
+- **Software / AI engineering roles in global tech companies**
+
+---
+
+## 🧠 Technical Focus Areas
+
+- **⚡ Edge & Privacy-First AI:** On-device inference using WebGPU and lightweight LLMs to minimize latency and protect user data.
+- **🏗️ Systems & Backend Engineering:** Designing asynchronous APIs, vector search pipelines, and scalable data flows.
+- **🤖 Applied Generative AI:** Building agentic systems capable of reasoning, orchestration, and autonomous task execution.
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Area | Highlights |
+|:--|:--|:--|
+| **TextGenius** | Edge AI / NLP | Built an offline-capable AI assistant using **Gemini Nano** in a Chrome Extension, enabling low-latency and privacy-first inference. |
+| **ResumeAI-Engine** | RAG / ML Systems | Developed a vector-based resume matching system using cosine similarity and embeddings to automate large-scale candidate screening. |
+| **Idea2App** | GenAI / Full-Stack | Created a real-time system that converts natural language prompts into live-rendered **React components** using WebSockets. |
 
 ---
 
@@ -77,27 +86,8 @@ Most recently at **Eventus Sol**, I engineered recruitment platforms and on-devi
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baseerahmedtahir&theme=radical&no-frame=false&margin-w=4&row=1" alt="trophies" />
-  </a>
-</div>
-
-<br/>
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baseerahmedtahir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseerahmedtahir&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
-</div> -->
-
-<div align="center">
-  <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=baseerahmedtahir&theme=dark&hide_border=true" alt="streak stats" />
-  </a> -->
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baseerahmedtahir&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=baseerahmedtahir&style=for-the-badge&color=blueviolet" />
 </div>
