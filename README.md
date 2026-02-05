@@ -38,7 +38,6 @@ I actively build real-world projects beyond coursework and am seeking opportunit
 - **⚡ Edge & Privacy-First AI:** On-device inference using WebGPU and lightweight LLMs to minimize latency and protect user data.
 - **🏗️ Systems & Backend Engineering:** Designing asynchronous APIs, vector search pipelines, and scalable data flows.
 - **🤖 Applied Generative AI:** Building agentic systems capable of reasoning, orchestration, and autonomous task execution.
-
 ---
 
 ## 🚀 Selected Projects
@@ -48,7 +47,6 @@ I actively build real-world projects beyond coursework and am seeking opportunit
 | **TextGenius** | Edge AI / NLP | Built an offline-capable AI assistant using **Gemini Nano** in a Chrome Extension, enabling low-latency and privacy-first inference. |
 | **ResumeAI-Engine** | RAG / ML Systems | Developed a vector-based resume matching system using cosine similarity and embeddings to automate large-scale candidate screening. |
 | **Idea2App** | GenAI / Full-Stack | Created a real-time system that converts natural language prompts into live-rendered **React components** using WebSockets. |
-
 ---
 
 ## 💻 Technical Arsenal
