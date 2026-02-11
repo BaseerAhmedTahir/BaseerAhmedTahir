@@ -9,7 +9,6 @@
   📫 Email: <a href="mailto:baseerahmedtahir@gmail.com">baseerahmedtahir@gmail.com</a>
 
   <br/><br/>
-
   <a href="https://www.linkedin.com/in/baseer-ahmed-tahir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
