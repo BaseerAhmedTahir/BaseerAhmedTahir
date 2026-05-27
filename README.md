@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Baseer Ahmed Tahir</h1>
-  <h3>BSCS Student | AI Engineer in Training | Full-Stack Developer</h3>
+  <h3>BSCS Student | Associate Software Engineer Candidate | Java • SQL • Full-Stack • AI/ML</h3>
   <p>
     <em>Building scalable, privacy-first AI systems with real-world impact.</em>
   </p>
