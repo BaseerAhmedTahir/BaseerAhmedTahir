@@ -23,11 +23,9 @@
 
 I am a **BSCS student at COMSATS University Islamabad (Lahore Campus)** with a strong focus on **Artificial Intelligence, distributed systems, and full-stack engineering**.
 
-My interests lie in bridging **computer science theory** with **production-grade software**, particularly in areas such as **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **on-device / privacy-preserving AI systems**.
+My interests lie in bridging **computer science theory** with **production-grade software**.
 
 I actively build real-world projects beyond coursework and am seeking opportunities for:
-- **International graduate programs**
-- **Research-driven MS admissions**
 - **Software / AI engineering roles in global tech companies**
 
 ---
