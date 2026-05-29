@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Baseer Ahmed Tahir</h1>
-  <h3>BSCS Student | Associate Software Engineer Candidate | Java • SQL • Full-Stack • OOP</h3>
+  <h3>BSCS Student | Associate Software Engineer Candidate | Java • C++ • Python • Full-Stack  </h3>
   <p>
     <em>Building reliable, scalable software with clean architecture and solid CS fundamentals.</em>
   </p>
