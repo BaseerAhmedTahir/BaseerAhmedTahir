@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Baseer Ahmed Tahir</h1>
-  <h3>BSCS Student | Associate Software Engineer Candidate | Java • SQL • Full-Stack • AI/ML</h3>
+  <h3>BSCS Student | Associate Software Engineer Candidate | Java • SQL • Full-Stack • OOP</h3>
   <p>
-    <em>Building scalable, privacy-first AI systems with real-world impact.</em>
+    <em>Building reliable, scalable software with clean architecture and solid CS fundamentals.</em>
   </p>
 
   👨‍💻 Portfolio: <a href="https://baseerahmedtahir.vercel.app/">baseerahmedtahir.vercel.app</a><br/>
@@ -21,63 +21,73 @@
 
 ## 🎓 About Me
 
-I am a **BSCS student at COMSATS University Islamabad (Lahore Campus)** with a strong focus on **Artificial Intelligence, distributed systems, and full-stack engineering**.
+I am a **BSCS student at COMSATS University Islamabad (Lahore Campus)** with hands-on experience in **Java, SQL, full-stack development, database design, and AI/ML projects**.
 
-My interests lie in bridging **computer science theory** with **production-grade software**.
+My focus is on writing **clean, maintainable code** with strong foundations in **OOP, DBMS, data structures, and problem solving**.
 
-I actively build real-world projects beyond coursework and am seeking opportunities for:
-- **Software / AI engineering roles in global tech companies**
+I actively build real-world projects beyond coursework and am seeking opportunities as an:
+- **Associate Software Engineer** — contributing to reliable, scalable, and maintainable financial technology software
 
 ---
 
 ## 🧠 Technical Focus Areas
 
-- **⚡ Edge & Privacy-First AI:** On-device inference using WebGPU and lightweight LLMs to minimize latency and protect user data.
-- **🏗️ Systems & Backend Engineering:** Designing asynchronous APIs, vector search pipelines, and scalable data flows.
-- **🤖 Applied Generative AI:** Building agentic systems capable of reasoning, orchestration, and autonomous task execution.
+- **☕ Java & OOP:** Building well-structured applications using encapsulation, modular design, validation logic, and clean separation of responsibilities.
+- **🗄️ Database & SQL:** Designing relational schemas with normalization, complex joins, constraints, transactions, and performance-oriented query logic.
+- **🌐 Full-Stack Development:** Creating responsive web and mobile applications with REST API integration, consistent state management, and clean frontend/backend separation.
+- **🤖 AI/ML & NLP:** Applying machine learning classifiers and NLP pipelines for real-world problems like bias detection in low-resource languages.
+
 ---
 
 ## 🚀 Selected Projects
 
 | Project | Area | Highlights |
 |:--|:--|:--|
-| **TextGenius** | Edge AI / NLP | Built an offline-capable AI assistant using **Gemini Nano** in a Chrome Extension, enabling low-latency and privacy-first inference. |
-| **ResumeAI-Engine** | RAG / ML Systems | Developed a vector-based resume matching system using cosine similarity and embeddings to automate large-scale candidate screening. |
-| **Idea2App** | GenAI / Full-Stack | Created a real-time system that converts natural language prompts into live-rendered **React components** using WebSockets. |
+| **Urdu News Bias Detection** | NLP / Machine Learning (FYP) | Built an NLP system to detect editorial bias in Urdu news using tokenization, feature extraction, and classifiers like **SVM** and **Naive Bayes**. |
+| **NSM Swimming Academy** | Full-Stack / SQL | Designed a cross-platform ecosystem with SQL-driven workflows, relational data modeling, and integrated web & mobile views for academy operations. |
+| **AI Chatbot Application** | Generative AI / APIs | Built an interactive chatbot integrating LLM APIs with conversation history, context management, and real-time typing simulation. |
+| **Global Culinary Recipe App** | Database Design / Web | Architecting a responsive recipe application with normalized entities, dietary filters, and performance-oriented search logic. |
+
 ---
 
 ## 💻 Technical Arsenal
 
-### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)
-
-### ⚙️ Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+### ☕ Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🗄️ Database & SQL
+![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### 🌐 Web & APIs
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+### 🛠️ Tools & Core CS
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6DB33F?style=flat-square&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures-FF6F00?style=flat-square&logoColor=white)
+
+---
+
+## 💪 Strengths
+
+- Strong understanding of **SQL, relational databases, transactions, OOP, debugging**, and backend-oriented application flow.
+- Comfortable learning new tools quickly, reading requirements, breaking problems into modules, and improving code step by step.
+- **Project ownership mindset** developed through freelance, independent, academic, and GitHub-based software projects.
 
 ---
 
