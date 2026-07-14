@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/baseerahmedtahir/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
@@ -43,10 +43,12 @@ I actively build real-world projects beyond coursework and am seeking opportunit
 
 | Project | Area | Highlights |
 |:--|:--|:--|
-| **Urdu News Bias Detection** | NLP / Machine Learning (FYP) | Built an NLP system to detect editorial bias in Urdu news using tokenization, feature extraction, and classifiers like **SVM** and **Naive Bayes**. |
-| **NSM Swimming Academy** | Full-Stack / SQL | Designed a cross-platform ecosystem with SQL-driven workflows, relational data modeling, and integrated web & mobile views for academy operations. |
-| **AI Chatbot Application** | Generative AI / APIs | Built an interactive chatbot integrating LLM APIs with conversation history, context management, and real-time typing simulation. |
-| **Global Culinary Recipe App** | Database Design / Web | Architecting a responsive recipe application with normalized entities, dietary filters, and performance-oriented search logic. |
+| [**NSM Swimming Academy**](https://github.com/BaseerAhmedTahir/NSM-Swimming-Academy) · [live](https://nsm-swimming-academy.vercel.app) | Full-Stack / TypeScript | A multi-branch academy platform: Express + Prisma REST API, Next.js admin panel, and an Expo mobile app — with role-based access, payments, scheduling, and reporting. |
+| [**Urdu News Bias Detection**](https://github.com/BaseerAhmedTahir/Urdu-NEWS-Bias-Detection) | NLP / Machine Learning (FYP) | An NLP system that detects editorial bias in Urdu news using tokenization, feature extraction, and classifiers like **SVM** and **Naive Bayes**. |
+| [**RAG Chat with Citations**](https://github.com/BaseerAhmedTahir/rag-chat-with-citations) | Generative AI / RAG | Chat with documents where every claim cites its exact source (file + page), backed by an evaluation harness measuring recall@k, MRR, and faithfulness. |
+| [**LivestockPro**](https://github.com/BaseerAhmedTahir/Livestock_Management) · [live](https://livestock-management.vercel.app) | Full-Stack / Supabase | Farm management with QR-code animal identification, health tracking, and financial analytics — React, Supabase, and React Query. |
+| [**Gupshup**](https://github.com/BaseerAhmedTahir/Gupshup) · [live](https://gupshup-seven.vercel.app) | Real-Time / Full-Stack | A real-time chat app with group chats, file uploads, and typing indicators, built on React and Supabase. |
+| [**FarmTrackr**](https://github.com/BaseerAhmedTahir/FarmTrackr) | Mobile / Flutter | A Flutter app for tracking farm livestock, operations, and investments. |
 
 ---
 
